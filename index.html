@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2026 Oddball</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Event info bar -->
+        <div class="event-info">
+            <div class="event-info__top-row">
+                <img src="icons/race.svg" alt="Oddball Fall Classic" class="event-info__icon">
+                <div class="event-info__text-col">
+                    <div class="event-info__date">September 26, 2026</div>
+                    <div class="event-info__location">Olympic Village, Vancouver</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section-divider"></div>
+
+        <!-- Marshalling section -->
+        <div class="marshalling-panel">
+            <h2 class="section-heading">Marshalling</h2>
+
+            <!-- Shown while fetching -->
+            <div id="marshalling-loading" class="marshalling-loading-inline">Loading marshalling info...</div>
+
+            <!-- Shown when race day hasn't been initialised yet -->
+            <div id="marshalling-not-started" class="marshalling-not-started" style="display: none;">
+                <span class="marshalling-not-started__icon">🏁</span>
+                <span class="marshalling-not-started__text">Races have not started yet</span>
+            </div>
+
+            <!-- Shown only after all retries fail -->
+            <div id="marshalling-error" class="marshalling-error-inline" style="display: none;">
+                <span>⚠️ Marshalling unavailable —</span>
+                <span>check the marshalling area or refresh.</span>
+            </div>
+
+            <!-- Retry button -->
+            <div id="marshalling-retry" style="display: none; text-align: center; margin-top: 12px;">
+                <button onclick="retryMarshallingNow()" class="marshalling-retry-btn">↻ Tap to Retry</button>
+            </div>
+
+            <!-- Shown when data is available -->
+            <div id="marshalling-cards" style="display: none;">
+                <div class="marshal-cards-row">
+                    <div class="marshal-card marshal-card--pre">
+                        <div class="marshal-card__label">Pre-Marshalling</div>
+                        <div class="marshal-card__num" id="premarshalling-num">—</div>
+                    </div>
+                    <div class="marshal-card marshal-card--current">
+                        <div class="marshal-card__label">Now Marshalling</div>
+                        <div class="marshal-card__num" id="marshalling-num">—</div>
+                    </div>
+                </div>
+                <div class="marshal-updated" id="marshalling-updated"></div>
+            </div>
+
+        </div>
+
+        <div class="section-divider"></div>
+
+        <!-- Race results section -->
+        <div id="panel-results">
+            <h2 class="section-heading">Race Results</h2>
+            <div class="filter-container">
+                <div class="filter-row">
+                    <div class="filter-group">
+                        <label class="filter-label" for="teamFilter">Search Teams:</label>
+                        <input type="text" id="teamFilter" class="filter-input" placeholder="Enter team name...">
+                    </div>
+                </div>
+
+                <div class="jump-section">
+                    <div class="jump-group">
+                        <label class="filter-label" for="jumpToRace">Jump to Race:</label>
+                        <input type="number" id="jumpToRace" class="jump-input" placeholder="Race #" min="1">
+                    </div>
+                    <button id="jumpButton" class="jump-button">Go</button>
+                </div>
+
+                <button id="clearFilters" class="clear-button">Clear Search</button>
+                <div id="resultsSummary" class="results-summary"></div>
+            </div>
+
+            <div id="errorView" class="error-view" style="display: none;">
+                <span class="error-icon">⚠️</span>
+                <div class="error-message">Sorry, something went wrong.<br>Please try again later or check paper results.</div>
+            </div>
+            <div id="loading" class="loading">Loading race results...</div>
+            <div id="raceContainer"></div>
+            <div id="noResults" class="no-results" style="display: none;">No races available at this time.</div>
+            <div id="noMatches" class="no-matches" style="display: none;">No races match your search criteria.</div>
+        </div>
+
+    </div>
+
+    <script src="js/race-display.js"></script>
+    <script src="js/filtering.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/marshalling.js"></script>
+</body>
+</html>
