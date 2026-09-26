@@ -1713,60 +1713,60 @@
       "heat": "29",
       "scheduledTime": "13:39",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Womens Grand Final",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "13:10:52",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Gig Harbor Fire",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:54.922",
+          "place": "6"
         },
         {
           "lane": "2",
           "teamName": "Sudden Impact One Paddle",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.072",
+          "place": "7"
         },
         {
           "lane": "3",
           "teamName": "FLCC Titanium",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:53.921",
+          "place": "5"
         },
         {
           "lane": "4",
           "teamName": "False Creek Masters",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:52.036",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "FCRCC SrC Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:53.788",
+          "place": "4"
         },
         {
           "lane": "6",
           "teamName": "FLCC Race Crew",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:52.403",
+          "place": "2"
         },
         {
           "lane": "7",
           "teamName": "DH Queen of Hearts",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:53.638",
+          "place": "3"
         },
         {
           "lane": "8",
           "teamName": "FLCC Titanium Masters",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:56.507",
+          "place": "8"
         }
       ]
     },
@@ -2271,61 +2271,61 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "#N/A",
+          "teamName": "Gals on the Gunnel",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "#N/A",
+          "teamName": "FCRCC Saggin Dragons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "#N/A",
+          "teamName": "FLCC Dragonflies",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "#N/A",
+          "teamName": "Atomic Furies",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "#N/A",
+          "teamName": "FLCC Titanium Masters",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "#N/A",
+          "teamName": "Gig Harbor Fire",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "#N/A",
+          "teamName": "FLCC Titanium",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "#N/A",
+          "teamName": "FCRCC SrC Women",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "9",
-          "teamName": "#N/A",
+          "teamName": "FLCC Race Crew",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "10",
-          "teamName": "#N/A",
+          "teamName": "False Creek Masters",
           "totalTime": "",
           "place": ""
         },
