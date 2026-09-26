@@ -1957,60 +1957,60 @@
       "heat": "33",
       "scheduledTime": "14:24",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Final E",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "13:49:19",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Metro Vancouver 44 Cheeks",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:56.948",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "Atlas-Quantum",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:52.326",
+          "place": "2"
         },
         {
           "lane": "3",
           "teamName": "Chinatown Flower Bridge 2U2",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:52.193",
+          "place": "1"
         },
         {
           "lane": "4",
           "teamName": "Lion Rock n Row",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:53.811",
+          "place": "5"
         },
         {
           "lane": "5",
           "teamName": "Orca",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:54.011",
+          "place": "6"
         },
         {
           "lane": "6",
           "teamName": "Reach It Out (RIO) dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:53.578",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "RPDB Unified Ripped Tides",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:53.394",
+          "place": "3"
         },
         {
           "lane": "8",
           "teamName": "Eternal Dinosaur",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.313",
+          "place": "7"
         }
       ]
     },
