@@ -554,60 +554,60 @@
       "heat": "10",
       "scheduledTime": "10:21",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Qualifier 6",
       "advancementWording": "Advancements: 1st to Race 23; 2nd to Race 24; 3rd to Race 25;\n                          4th to Race 22; 5th to Race 19; 6th to Race 20;\n                          7th to Race 21; 8th to Race 18;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "10:22:07",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Dragon Zone Twisted Hips",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:57.924",
+          "place": "4"
         },
         {
           "lane": "2",
           "teamName": "Kitsch 'N Sync",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:57.674",
+          "place": "3"
         },
         {
           "lane": "3",
           "teamName": "Otter Chaos",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.572",
+          "place": "2"
         },
         {
           "lane": "4",
           "teamName": "Cao-Wabunga!",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:53.086",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Chinatown Flower Bridge 2U2",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:58.808",
+          "place": "5"
         },
         {
           "lane": "6",
           "teamName": "TCC Dragoneers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:59.559",
+          "place": "7"
         },
         {
           "lane": "7",
           "teamName": "FCRCC - The Eh Team",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.194",
+          "place": "8"
         },
         {
           "lane": "8",
           "teamName": "HMCS DISCOVERY - WAVY NAVY",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:59.142",
+          "place": "6"
         }
       ]
     },
