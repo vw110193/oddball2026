@@ -249,60 +249,60 @@
       "heat": "5",
       "scheduledTime": "09:36",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Qualifier 1",
       "advancementWording": "Advancements: 1st to Race 25; 2nd to Race 22; 3rd to Race 23;\n                          4th to Race 24; 5th to Race 21; 6th to Race 18;\n                          7th to Race 19; 8th to Race 20;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "09:44:26",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Vision Impossible",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:12.975",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "Quantum Guardian",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.030",
+          "place": "6"
         },
         {
           "lane": "3",
           "teamName": "Max Storm",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.040",
+          "place": "3"
         },
         {
           "lane": "4",
           "teamName": "Dragon Hearts Breaker",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:54.473",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Boat",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.024",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Twist'n Trout",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:56.025",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "Eternal Dinosaur",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:57.326",
+          "place": "5"
         },
         {
           "lane": "8",
           "teamName": "Beer After",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:04.883",
+          "place": "7"
         }
       ]
     },
