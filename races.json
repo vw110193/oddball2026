@@ -1652,60 +1652,60 @@
       "heat": "28",
       "scheduledTime": "13:30",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Womens Final B",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "13:01:38",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Chawanda - SDBA",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.915",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "INSINK",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.415",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "Atomic Furies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:59.379",
+          "place": "1"
         },
         {
           "lane": "4",
           "teamName": "Inlet Spirit Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:59.596",
+          "place": "2"
         },
         {
           "lane": "5",
           "teamName": "FLCC Dragonflies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:59.613",
+          "place": "3"
         },
         {
           "lane": "6",
           "teamName": "Inlet Storm",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.064",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "FLCC FURIES",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.681",
+          "place": "6"
         },
         {
           "lane": "8",
           "teamName": "Sea Gals",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:04.067",
+          "place": "8"
         }
       ]
     },
