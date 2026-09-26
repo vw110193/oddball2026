@@ -1774,54 +1774,54 @@
       "heat": "30",
       "scheduledTime": "13:57",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Final H",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "13:22:32",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Silver Dragons Creekside",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:05.333",
+          "place": "6"
         },
         {
           "lane": "2",
           "teamName": "DH Boomers & Zoomers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:58.843",
+          "place": "2"
         },
         {
           "lane": "3",
           "teamName": "DZPC Salmon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:57.108",
+          "place": "1"
         },
         {
           "lane": "4",
           "teamName": "Vision Impossible",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:07.535",
+          "place": "7"
         },
         {
           "lane": "5",
           "teamName": "DZPC Ravens",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:00.244",
+          "place": "3"
         },
         {
           "lane": "6",
           "teamName": "Grandragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:03.564",
+          "place": "5"
         },
         {
           "lane": "7",
           "teamName": "Off Balance",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.429",
+          "place": "4"
         },
         {
           "lane": "8",
