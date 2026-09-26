@@ -2018,60 +2018,60 @@
       "heat": "34",
       "scheduledTime": "14:33",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Final D",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "13:59:12",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Concord Pacific Flying Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.784",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Kitsch 'N Sync",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.283",
+          "place": "4"
         },
         {
           "lane": "3",
           "teamName": "Dragon Zone Twisted Hips",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.367",
+          "place": "5"
         },
         {
           "lane": "4",
           "teamName": "CrossNa Happy Trails",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:52.147",
+          "place": "2"
         },
         {
           "lane": "5",
           "teamName": "Hydro Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.083",
+          "place": "3"
         },
         {
           "lane": "6",
           "teamName": "Brier Fire",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.450",
+          "place": "6"
         },
         {
           "lane": "7",
           "teamName": "One Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:56.134",
+          "place": "8"
         },
         {
           "lane": "8",
           "teamName": "Twist'n Trout",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:52.130",
+          "place": "1"
         }
       ]
     },
