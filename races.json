@@ -1286,60 +1286,60 @@
       "heat": "22",
       "scheduledTime": "12:27",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Grand/B/C/D Semi 1",
       "advancementWording": "Advancements: 1st and 2nd to Race 37; 3rd and 4th to Race 36;\n                          5th and 6th to Race 35; 7th and 8th to Race 34;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "12:14:04",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "One Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:58.315",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "Dragon Hybrids",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.011",
+          "place": "4"
         },
         {
           "lane": "3",
           "teamName": "Boat",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.612",
+          "place": "6"
         },
         {
           "lane": "4",
           "teamName": "The GOAT Charlene Li + Others",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:49.139",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "DH Swordfish",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:51.992",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Watermelons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:54.828",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "Harrison Wild",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.312",
+          "place": "5"
         },
         {
           "lane": "8",
           "teamName": "Dragon Zone Twisted Hips",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:56.530",
+          "place": "7"
         }
       ]
     },
