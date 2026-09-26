@@ -1042,60 +1042,60 @@
       "heat": "18",
       "scheduledTime": "11:51",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed E/F/G/H Semi 1",
       "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th to Race 32;\n                          5th and 6th to Race 31; 7th and 8th to Race 30;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "11:38:08",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Off Balance",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:13.019",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "Wave Catchers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:03.326",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "Quantum Guardian",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.808",
+          "place": "4"
         },
         {
           "lane": "4",
           "teamName": "Atlas-Quantum",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:59.789",
+          "place": "2"
         },
         {
           "lane": "5",
           "teamName": "Nothin' Dragon Rock",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:00.673",
+          "place": "3"
         },
         {
           "lane": "6",
           "teamName": "Reach It Out (RIO) dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:57.904",
+          "place": "1"
         },
         {
           "lane": "7",
           "teamName": "DZPC Salmon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:05.928",
+          "place": "7"
         },
         {
           "lane": "8",
           "teamName": "FCRCC - The Eh Team",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:03.626",
+          "place": "6"
         }
       ]
     },
