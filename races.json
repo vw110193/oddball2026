@@ -1591,60 +1591,60 @@
       "heat": "27",
       "scheduledTime": "13:21",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Womens Final C",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "12:55:21",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "RPDB Moody Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:04.079",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Gals on the Gunnel",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:02.928",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "RPDB Moody Growlers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.726",
+          "place": "4"
         },
         {
           "lane": "4",
           "teamName": "Hope Floats",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:00.959",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "FCRCC Saggin Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.526",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Rainbow Riders",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.560",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "Braggin Dragons 2",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:03.878",
+          "place": "6"
         },
         {
           "lane": "8",
           "teamName": "Spirit Abreast",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:05.263",
+          "place": "8"
         }
       ]
     },
