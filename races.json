@@ -2357,8 +2357,8 @@
       "heatDescription": "Mixed Division Minor Guts and Glory",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "14:37:24",
-      "resultsPending": true,
+      "updatedTime": "14:44:50",
+      "resultsPending": false,
       "results": [
         {
           "lane": "1",
@@ -2374,13 +2374,13 @@
         },
         {
           "lane": "3",
-          "teamName": "#N/A",
+          "teamName": "Vancouver Reign",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "#N/A",
+          "teamName": "Orca",
           "totalTime": "",
           "place": ""
         },
@@ -2392,7 +2392,7 @@
         },
         {
           "lane": "6",
-          "teamName": "#N/A",
+          "teamName": "One Dragon",
           "totalTime": "",
           "place": ""
         },
@@ -2404,13 +2404,13 @@
         },
         {
           "lane": "8",
-          "teamName": "#N/A",
+          "teamName": "Dragon Zone Twisted Hips",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "9",
-          "teamName": "#N/A",
+          "teamName": "Kitsch 'N Sync",
           "totalTime": "",
           "place": ""
         },
@@ -2422,19 +2422,19 @@
         },
         {
           "lane": "11",
-          "teamName": "#N/A",
+          "teamName": "ZERO",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "12",
-          "teamName": "#N/A",
+          "teamName": "Otter Chaos",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "13",
-          "teamName": "#N/A",
+          "teamName": "Stantec Splash",
           "totalTime": "",
           "place": ""
         }
@@ -2459,13 +2459,13 @@
         },
         {
           "lane": "2",
-          "teamName": "#N/A",
+          "teamName": "Watermelons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "#N/A",
+          "teamName": "Gig Harbor Storm",
           "totalTime": "",
           "place": ""
         },
@@ -2477,19 +2477,19 @@
         },
         {
           "lane": "5",
-          "teamName": "#N/A",
+          "teamName": "SFU Shockwave",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "#N/A",
+          "teamName": "Hongkongers",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "#N/A",
+          "teamName": "Team Lifescan",
           "totalTime": "",
           "place": ""
         },
@@ -2507,25 +2507,25 @@
         },
         {
           "lane": "10",
-          "teamName": "error",
+          "teamName": "Starbucks Waverunners",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "11",
-          "teamName": "error",
+          "teamName": "Liyu Lakers",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "12",
-          "teamName": "error",
+          "teamName": "The GOAT Charlene Li + Others",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "13",
-          "teamName": "error",
+          "teamName": "DH Unicorn",
           "totalTime": "",
           "place": ""
         }
