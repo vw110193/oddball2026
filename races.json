@@ -2262,72 +2262,72 @@
       "heat": "38",
       "scheduledTime": "16:00",
       "color": "Black",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Women Division Grand Guts and Glory",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "16:26:07",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Gals on the Gunnel",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "14:02.730",
+          "place": "10"
         },
         {
           "lane": "2",
           "teamName": "FCRCC Saggin Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:59.478",
+          "place": "8"
         },
         {
           "lane": "3",
           "teamName": "FLCC Dragonflies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:55.367",
+          "place": "6"
         },
         {
           "lane": "4",
           "teamName": "Atomic Furies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:53.375",
+          "place": "5"
         },
         {
           "lane": "5",
           "teamName": "FLCC Titanium Masters",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "13:14.606",
+          "place": "9"
         },
         {
           "lane": "6",
           "teamName": "Gig Harbor Fire",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:57.465",
+          "place": "7"
         },
         {
           "lane": "7",
           "teamName": "FLCC Titanium",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:46.972",
+          "place": "2"
         },
         {
           "lane": "8",
           "teamName": "FCRCC SrC Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:15.510",
+          "place": "4"
         },
         {
           "lane": "9",
           "teamName": "FLCC Race Crew",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:57.219",
+          "place": "3"
         },
         {
           "lane": "10",
           "teamName": "False Creek Masters",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:21.643",
+          "place": "1"
         },
         {
           "lane": "11",
