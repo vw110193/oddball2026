@@ -2265,9 +2265,9 @@
       "status": "Publish",
       "heatDescription": "Women Division Grand Guts and Glory",
       "advancementWording": "",
-      "penaltyWording": "",
-      "updatedTime": "16:33:01",
-      "resultsPending": true,
+      "penaltyWording": "Boat 4 & Boat 5 - 5 second penalty for missing a turn at turn 1.",
+      "updatedTime": "16:42:26",
+      "resultsPending": false,
       "results": [
         {
           "lane": "1",
@@ -2285,25 +2285,25 @@
           "lane": "3",
           "teamName": "FLCC Dragonflies",
           "totalTime": "12:55.367",
-          "place": "6"
+          "place": "5"
         },
         {
           "lane": "4",
           "teamName": "Atomic Furies",
-          "totalTime": "12:53.375",
-          "place": "5"
+          "totalTime": "12:58.375",
+          "place": "7"
         },
         {
           "lane": "5",
           "teamName": "FLCC Titanium Masters",
-          "totalTime": "13:14.606",
+          "totalTime": "13:19.606",
           "place": "9"
         },
         {
           "lane": "6",
           "teamName": "Gig Harbor Fire",
           "totalTime": "12:57.465",
-          "place": "7"
+          "place": "6"
         },
         {
           "lane": "7",
