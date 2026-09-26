@@ -981,11 +981,11 @@
       "heat": "17",
       "scheduledTime": "11:42",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Open Cup",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "11:23:08",
       "resultsPending": false,
       "results": [
         {
@@ -1003,20 +1003,20 @@
         {
           "lane": "3",
           "teamName": "Pacific Thunder Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.526",
+          "place": "3"
         },
         {
           "lane": "4",
           "teamName": "Liyu Lakers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:50.915",
+          "place": "2"
         },
         {
           "lane": "5",
           "teamName": "Only Ochan Fans",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:50.398",
+          "place": "1"
         },
         {
           "lane": "6",
