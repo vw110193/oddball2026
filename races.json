@@ -5,60 +5,60 @@
       "heat": "1",
       "scheduledTime": "09:00",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Womens Qualifier 1",
       "advancementWording": "Advancements: 1st and 3rd to Race 16; 2nd and 4th to Race 15;\n                          5th and 7th to Race 14; 6th and 8th to Race 13;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "09:04:35",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "DH Empress of Hearts",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:12.775",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "RPDB Moody Growlers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:06.936",
+          "place": "6"
         },
         {
           "lane": "3",
           "teamName": "Inlet Spirit Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:02.065",
+          "place": "3"
         },
         {
           "lane": "4",
           "teamName": "FLCC Race Crew",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:57.694",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "FLCC Titanium Masters",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.097",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Hope Floats",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:04.884",
+          "place": "5"
         },
         {
           "lane": "7",
           "teamName": "INSINK",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:04.033",
+          "place": "4"
         },
         {
           "lane": "8",
           "teamName": "Perfect Wave",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:07.820",
+          "place": "7"
         }
       ]
     },
