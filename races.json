@@ -920,60 +920,60 @@
       "heat": "16",
       "scheduledTime": "11:24",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Womens Grand/B Semi 2",
       "advancementWording": "Advancements: 1st, 2nd, 3rd, and 4th to Race 29;\n                          5th, 6th, 7th and 8th to Race 28;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "11:11:38",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "FLCC FURIES",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:05.742",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Inlet Storm",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:05.692",
+          "place": "6"
         },
         {
           "lane": "3",
           "teamName": "DH Queen of Hearts",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:00.270",
+          "place": "3"
         },
         {
           "lane": "4",
           "teamName": "False Creek Masters",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:58.602",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "FLCC Race Crew",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:58.685",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Gig Harbor Fire",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.855",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "Inlet Spirit Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:03.540",
+          "place": "5"
         },
         {
           "lane": "8",
           "teamName": "Chawanda - SDBA",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:05.959",
+          "place": "8"
         }
       ]
     },
@@ -1539,43 +1539,43 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "From Race 14 Place 8th",
+          "teamName": "Abreast In A Boat",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "From Race 13 Place 7th",
+          "teamName": "DH Empress of Hearts",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "From Race 13 Place 6th",
+          "teamName": "Nothin' Dragon Gals",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "From Race 14 Place 5th",
+          "teamName": "RPDB Pass the BUK",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "From Race 13 Place 5th",
+          "teamName": "FLCC Phoenix",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "From Race 14 Place 6th",
+          "teamName": "Momentum",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "From Race 14 Place 7th",
+          "teamName": "Perfect Wave",
           "totalTime": "",
           "place": ""
         },
@@ -1600,49 +1600,49 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "From Race 14 Place 4th",
+          "teamName": "RPDB Moody Dragon",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "From Race 13 Place 3rd",
+          "teamName": "Gals on the Gunnel",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "From Race 13 Place 2nd",
+          "teamName": "RPDB Moody Growlers",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "From Race 14 Place 1st",
+          "teamName": "Hope Floats",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "From Race 13 Place 1st",
+          "teamName": "FCRCC Saggin Dragons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "From Race 14 Place 2nd",
+          "teamName": "Rainbow Riders",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "From Race 14 Place 3rd",
+          "teamName": "Braggin Dragons 2",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "From Race 13 Place 4th",
+          "teamName": "Spirit Abreast",
           "totalTime": "",
           "place": ""
         }
@@ -1661,49 +1661,49 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "From Race 16 Place 8th",
+          "teamName": "Chawanda - SDBA",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "From Race 15 Place 7th",
+          "teamName": "INSINK",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "From Race 15 Place 6th",
+          "teamName": "Atomic Furies",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "From Race 16 Place 5th",
+          "teamName": "Inlet Spirit Women",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "From Race 15 Place 5th",
+          "teamName": "FLCC Dragonflies",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "From Race 16 Place 6th",
+          "teamName": "Inlet Storm",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "From Race 16 Place 7th",
+          "teamName": "FLCC FURIES",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "From Race 15 Place 8th",
+          "teamName": "Sea Gals",
           "totalTime": "",
           "place": ""
         }
@@ -1722,49 +1722,49 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "From Race 16 Place 4th",
+          "teamName": "Gig Harbor Fire",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "From Race 15 Place 3rd",
+          "teamName": "Sudden Impact One Paddle",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "3",
-          "teamName": "From Race 15 Place 2nd",
+          "teamName": "FLCC Titanium",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "4",
-          "teamName": "From Race 16 Place 1st",
+          "teamName": "False Creek Masters",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "5",
-          "teamName": "From Race 15 Place 1st",
+          "teamName": "FCRCC SrC Women",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "6",
-          "teamName": "From Race 16 Place 2nd",
+          "teamName": "FLCC Race Crew",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "7",
-          "teamName": "From Race 16 Place 3rd",
+          "teamName": "DH Queen of Hearts",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "8",
-          "teamName": "From Race 15 Place 4th",
+          "teamName": "FLCC Titanium Masters",
           "totalTime": "",
           "place": ""
         }
