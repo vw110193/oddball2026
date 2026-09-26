@@ -1225,60 +1225,60 @@
       "heat": "21",
       "scheduledTime": "12:18",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed E/F/G/H Semi 4",
       "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th to Race 32;\n                          5th and 6th to Race 31; 7th and 8th to Race 30;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "12:02:42",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "DH Boomers & Zoomers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:07.997",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "TCC Dragoneers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.658",
+          "place": "3"
         },
         {
           "lane": "3",
           "teamName": "Butts in a Boat",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:02.725",
+          "place": "5"
         },
         {
           "lane": "4",
           "teamName": "Lion Rock n Row",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:59.989",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Eternal Dinosaur",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:00.990",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "YVR Soaring Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:02.425",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "Grandragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:06.329",
+          "place": "7"
         },
         {
           "lane": "8",
           "teamName": "Blue Bloods",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:04.544",
+          "place": "6"
         }
       ]
     },
