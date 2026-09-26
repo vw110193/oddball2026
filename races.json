@@ -1835,60 +1835,60 @@
       "heat": "31",
       "scheduledTime": "14:06",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Final G",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "13:35:04",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "FCRCC - The Eh Team",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:58.160",
+          "place": "5"
         },
         {
           "lane": "2",
           "teamName": "Twisted Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:59.345",
+          "place": "6"
         },
         {
           "lane": "3",
           "teamName": "Butts in a Boat",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:56.843",
+          "place": "2"
         },
         {
           "lane": "4",
           "teamName": "Pacific Thunder Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.725",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Wave Catchers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:57.026",
+          "place": "3"
         },
         {
           "lane": "6",
           "teamName": "BC Blind Sport FLCC Ex-Sighted",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:59.695",
+          "place": "7"
         },
         {
           "lane": "7",
           "teamName": "Blue Bloods",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:57.560",
+          "place": "4"
         },
         {
           "lane": "8",
           "teamName": "Beer After",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:02.615",
+          "place": "8"
         }
       ]
     },
