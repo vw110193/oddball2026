@@ -432,60 +432,60 @@
       "heat": "8",
       "scheduledTime": "10:03",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Qualifier 4",
       "advancementWording": "Advancements: 1st to Race 22; 2nd to Race 23; 3rd to Race 24;\n                          4th to Race 25; 5th to Race 18; 6th to Race 19;\n                          7th to Race 20; 8th to Race 21;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "10:06:23",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Twisted Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:05.221",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Pacific Thunder Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:03.185",
+          "place": "6"
         },
         {
           "lane": "3",
           "teamName": "DH Slayers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:54.594",
+          "place": "3"
         },
         {
           "lane": "4",
           "teamName": "DH Swordfish",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:53.092",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "SFU Shockwave",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:53.693",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Dashing Ducks",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:56.045",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "Nothin' Dragon Rock",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.701",
+          "place": "5"
         },
         {
           "lane": "8",
           "teamName": "DH Boomers & Zoomers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:06.088",
+          "place": "8"
         }
       ]
     },
