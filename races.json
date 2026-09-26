@@ -2140,60 +2140,60 @@
       "heat": "36",
       "scheduledTime": "14:51",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Final B",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "14:19:12",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Eternal Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:53.695",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "SFU Shockwave",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:51.710",
+          "place": "2"
         },
         {
           "lane": "3",
           "teamName": "Gig Harbor Storm",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:52.944",
+          "place": "6"
         },
         {
           "lane": "4",
           "teamName": "Watermelons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:52.961",
+          "place": "7"
         },
         {
           "lane": "5",
           "teamName": "Dragon Hearts Breaker",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:51.743",
+          "place": "3"
         },
         {
           "lane": "6",
           "teamName": "Hongkongers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:50.876",
+          "place": "1"
         },
         {
           "lane": "7",
           "teamName": "DH Slayers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:52.527",
+          "place": "5"
         },
         {
           "lane": "8",
           "teamName": "Dragon Hybrids",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:52.194",
+          "place": "4"
         }
       ]
     },
