@@ -798,60 +798,60 @@
       "heat": "14",
       "scheduledTime": "11:06",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Womens C/D Semi 2",
       "advancementWording": "Advancements: 1st, 2nd, 3rd, and 4th to Race 27;\n                          5th, 6th, 7th and 8th to Race 26;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "10:58:24",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Abreast In A Boat",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:12.987",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "RPDB Moody Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:09.300",
+          "place": "4"
         },
         {
           "lane": "3",
           "teamName": "RPDB Pass the BUK",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:09.367",
+          "place": "5"
         },
         {
           "lane": "4",
           "teamName": "Rainbow Riders",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:06.297",
+          "place": "2"
         },
         {
           "lane": "5",
           "teamName": "Hope Floats",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:05.380",
+          "place": "1"
         },
         {
           "lane": "6",
           "teamName": "Braggin Dragons 2",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:08.583",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "Perfect Wave",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:11.586",
+          "place": "7"
         },
         {
           "lane": "8",
           "teamName": "Momentum",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:10.819",
+          "place": "6"
         }
       ]
     },
