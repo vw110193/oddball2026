@@ -2079,60 +2079,60 @@
       "heat": "35",
       "scheduledTime": "14:42",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Final C",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "14:08:44",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Boat",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:54.372",
+          "place": "4"
         },
         {
           "lane": "2",
           "teamName": "ZERO",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.273",
+          "place": "8"
         },
         {
           "lane": "3",
           "teamName": "Inlet Spirit",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:54.756",
+          "place": "6"
         },
         {
           "lane": "4",
           "teamName": "Stantec Splash",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:54.272",
+          "place": "3"
         },
         {
           "lane": "5",
           "teamName": "Harrison Wild",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:54.522",
+          "place": "5"
         },
         {
           "lane": "6",
           "teamName": "Otter Chaos",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:54.923",
+          "place": "7"
         },
         {
           "lane": "7",
           "teamName": "Dashing Ducks",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:53.054",
+          "place": "1"
         },
         {
           "lane": "8",
           "teamName": "Max Storm",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:53.421",
+          "place": "2"
         }
       ]
     },
