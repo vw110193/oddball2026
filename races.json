@@ -2201,60 +2201,60 @@
       "heat": "37",
       "scheduledTime": "15:00",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Grand Final",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "14:36:03",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Team Lifescan",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:49.763",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "DH Swordfish",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:48.862",
+          "place": "7"
         },
         {
           "lane": "3",
           "teamName": "Cao-Wabunga!",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:47.193",
+          "place": "4"
         },
         {
           "lane": "4",
           "teamName": "Liyu Lakers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:45.859",
+          "place": "3"
         },
         {
           "lane": "5",
           "teamName": "DH Unicorn",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:44.407",
+          "place": "1"
         },
         {
           "lane": "6",
           "teamName": "The GOAT Charlene Li + Others",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:44.891",
+          "place": "2"
         },
         {
           "lane": "7",
           "teamName": "Starbucks Waverunners",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:47.710",
+          "place": "5"
         },
         {
           "lane": "8",
           "teamName": "CrossNA Lil Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:48.762",
+          "place": "6"
         }
       ]
     },
@@ -2362,13 +2362,13 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "#N/A",
+          "teamName": "Butts in a Boat",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "2",
-          "teamName": "#N/A",
+          "teamName": "DH Motley Crew",
           "totalTime": "",
           "place": ""
         },
@@ -2386,7 +2386,7 @@
         },
         {
           "lane": "5",
-          "teamName": "#N/A",
+          "teamName": "Chinatown Flower Bridge 2U2",
           "totalTime": "",
           "place": ""
         },
@@ -2398,7 +2398,7 @@
         },
         {
           "lane": "7",
-          "teamName": "#N/A",
+          "teamName": "Concord Pacific Flying Dragons",
           "totalTime": "",
           "place": ""
         },
@@ -2416,7 +2416,7 @@
         },
         {
           "lane": "10",
-          "teamName": "#N/A",
+          "teamName": "CrossNa Happy Trails",
           "totalTime": "",
           "place": ""
         },
@@ -2453,7 +2453,7 @@
       "results": [
         {
           "lane": "1",
-          "teamName": "#N/A",
+          "teamName": "Dashing Ducks",
           "totalTime": "",
           "place": ""
         },
@@ -2471,7 +2471,7 @@
         },
         {
           "lane": "4",
-          "teamName": "#N/A",
+          "teamName": "DH Slayers",
           "totalTime": "",
           "place": ""
         },
@@ -2495,37 +2495,37 @@
         },
         {
           "lane": "8",
-          "teamName": "#N/A",
+          "teamName": "DH Swordfish",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "9",
-          "teamName": "#N/A",
+          "teamName": "CrossNA Lil Dragons",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "10",
-          "teamName": "#N/A",
+          "teamName": "error",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "11",
-          "teamName": "#N/A",
+          "teamName": "error",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "12",
-          "teamName": "#N/A",
+          "teamName": "error",
           "totalTime": "",
           "place": ""
         },
         {
           "lane": "13",
-          "teamName": "#N/A",
+          "teamName": "error",
           "totalTime": "",
           "place": ""
         }
