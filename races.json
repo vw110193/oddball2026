@@ -1103,60 +1103,60 @@
       "heat": "19",
       "scheduledTime": "12:00",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed E/F/G/H Semi 2",
       "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th to Race 32;\n                          5th and 6th to Race 31; 7th and 8th to Race 30;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "11:43:34",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "DZPC Ravens",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:05.674",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Cultus Blue",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:00.853",
+          "place": "4"
         },
         {
           "lane": "3",
           "teamName": "Pacific Thunder Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.203",
+          "place": "5"
         },
         {
           "lane": "4",
           "teamName": "Chinatown Flower Bridge 2U2",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:57.550",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "RPDB Unified Ripped Tides",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:58.234",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "STEMCELL Technologies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:59.869",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "Beer After",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:04.023",
+          "place": "6"
         },
         {
           "lane": "8",
           "teamName": "Silver Dragons Creekside",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:08.677",
+          "place": "8"
         }
       ]
     },
