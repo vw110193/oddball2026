@@ -1896,60 +1896,60 @@
       "heat": "32",
       "scheduledTime": "14:15",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Final F",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "13:42:28",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "YVR Soaring Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:56.796",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Cultus Blue",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:57.180",
+          "place": "8"
         },
         {
           "lane": "3",
           "teamName": "DH Motley Crew",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:53.326",
+          "place": "1"
         },
         {
           "lane": "4",
           "teamName": "Nothin' Dragon Rock",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:56.045",
+          "place": "5"
         },
         {
           "lane": "5",
           "teamName": "TCC Dragoneers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.478",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "STEMCELL Technologies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.862",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "HMCS DISCOVERY - WAVY NAVY",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:56.563",
+          "place": "6"
         },
         {
           "lane": "8",
           "teamName": "Quantum Guardian",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.712",
+          "place": "3"
         }
       ]
     },
