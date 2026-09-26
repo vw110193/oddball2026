@@ -859,60 +859,60 @@
       "heat": "15",
       "scheduledTime": "11:15",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Womens Grand/B Semi 1",
       "advancementWording": "Advancements: 1st, 2nd, 3rd, and 4th to Race 29;\n                          5th, 6th, 7th and 8th to Race 28;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "11:02:24",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "INSINK",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:07.289",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Atomic Furies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:04.336",
+          "place": "6"
         },
         {
           "lane": "3",
           "teamName": "FLCC Titanium Masters",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:02.217",
+          "place": "4"
         },
         {
           "lane": "4",
           "teamName": "FCRCC SrC Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:00.783",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "FLCC Titanium",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.033",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "FLCC Dragonflies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:02.735",
+          "place": "5"
         },
         {
           "lane": "7",
           "teamName": "Sudden Impact One Paddle",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.700",
+          "place": "3"
         },
         {
           "lane": "8",
           "teamName": "Sea Gals",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:07.656",
+          "place": "8"
         }
       ]
     },
