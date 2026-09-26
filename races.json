@@ -66,60 +66,60 @@
       "heat": "2",
       "scheduledTime": "09:09",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Womens Qualifier 2",
       "advancementWording": "Advancements: 1st and 3rd to Race 15; 2nd and 4th to Race 16;\n                          5th and 7th to Race 13; 6th and 8th to Race 14;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "09:15:44",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Spirit Abreast",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:08.092",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "FLCC FURIES",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:03.187",
+          "place": "4"
         },
         {
           "lane": "3",
           "teamName": "FCRCC Saggin Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:03.604",
+          "place": "5"
         },
         {
           "lane": "4",
           "teamName": "FLCC Titanium",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:00.217",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Sudden Impact One Paddle",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:00.835",
+          "place": "3"
         },
         {
           "lane": "6",
           "teamName": "DH Queen of Hearts",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:00.668",
+          "place": "2"
         },
         {
           "lane": "7",
           "teamName": "Abreast In A Boat",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:09.276",
+          "place": "8"
         },
         {
           "lane": "8",
           "teamName": "RPDB Pass the BUK",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:07.908",
+          "place": "6"
         }
       ]
     },
