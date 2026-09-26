@@ -737,54 +737,54 @@
       "heat": "13",
       "scheduledTime": "10:57",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Womens C/D Semi 1",
       "advancementWording": "Advancements: 1st, 2nd, 3rd, and 4th to Race 27;\n                          5th, 6th and 7th to Race 26;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "10:46:32",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "DH Empress of Hearts",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:12.364",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "Gals on the Gunnel",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:07.092",
+          "place": "3"
         },
         {
           "lane": "3",
           "teamName": "RPDB Moody Growlers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:06.275",
+          "place": "2"
         },
         {
           "lane": "4",
           "teamName": "FLCC Phoenix",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:09.278",
+          "place": "5"
         },
         {
           "lane": "5",
           "teamName": "FCRCC Saggin Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:05.090",
+          "place": "1"
         },
         {
           "lane": "6",
           "teamName": "Nothin' Dragon Gals",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:10.395",
+          "place": "6"
         },
         {
           "lane": "7",
           "teamName": "Spirit Abreast",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:08.193",
+          "place": "4"
         },
         {
           "lane": "8",
