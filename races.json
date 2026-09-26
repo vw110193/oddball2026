@@ -127,60 +127,60 @@
       "heat": "3",
       "scheduledTime": "09:18",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Womens Qualifier 3",
       "advancementWording": "Advancements: 1st and 3rd to Race 15; 2nd and 4th to Race 16;\n                          5th and 7th to Race 13; 6th and 8th to Race 14;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "09:24:26",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Momentum",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:11.762",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "Gals on the Gunnel",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:06.907",
+          "place": "7"
         },
         {
           "lane": "3",
           "teamName": "Atomic Furies",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.769",
+          "place": "3"
         },
         {
           "lane": "4",
           "teamName": "FCRCC SrC Women",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:58.916",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Gig Harbor Fire",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:59.900",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Chawanda - SDBA",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:05.506",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "FLCC Phoenix",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:06.056",
+          "place": "5"
         },
         {
           "lane": "8",
           "teamName": "Braggin Dragons 2",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:06.423",
+          "place": "6"
         }
       ]
     },
