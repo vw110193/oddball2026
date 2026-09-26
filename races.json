@@ -371,60 +371,60 @@
       "heat": "7",
       "scheduledTime": "09:54",
       "color": "R",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Qualifier 3",
       "advancementWording": "Advancements: 1st to Race 23; 2nd to Race 24; 3rd to Race 25;\n                          4th to Race 22; 5th to Race 19; 6th to Race 20;\n                          7th to Race 21; 8th to Race 18;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "09:58:26",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Grandragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:05.666",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "RPDB Unified Ripped Tides",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:59.143",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "Gig Harbor Storm",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:54.805",
+          "place": "2"
         },
         {
           "lane": "4",
           "teamName": "Eternal Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.706",
+          "place": "3"
         },
         {
           "lane": "5",
           "teamName": "Hongkongers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:52.670",
+          "place": "1"
         },
         {
           "lane": "6",
           "teamName": "One Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:57.508",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "Metro Vancouver 44 Cheeks",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:59.743",
+          "place": "6"
         },
         {
           "lane": "8",
           "teamName": "Off Balance",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:09.036",
+          "place": "8"
         }
       ]
     },
