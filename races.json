@@ -1164,54 +1164,54 @@
       "heat": "20",
       "scheduledTime": "12:09",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed E/F/G/H Semi 3",
       "advancementWording": "Advancements: 1st and 2nd to Race 33; 3rd and 4th to Race 32;\n                          5th and 6th to Race 31; 7th to Race 30;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "11:54:45",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Vision Impossible",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:13.951",
+          "place": "7"
         },
         {
           "lane": "2",
           "teamName": "BC Blind Sport FLCC Ex-Sighted",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:03.641",
+          "place": "5"
         },
         {
           "lane": "3",
           "teamName": "Metro Vancouver 44 Cheeks",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.422",
+          "place": "2"
         },
         {
           "lane": "4",
           "teamName": "DH Motley Crew",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.456",
+          "place": "3"
         },
         {
           "lane": "5",
           "teamName": "Orca",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.055",
+          "place": "1"
         },
         {
           "lane": "6",
           "teamName": "HMCS DISCOVERY - WAVY NAVY",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:01.940",
+          "place": "4"
         },
         {
           "lane": "7",
           "teamName": "Twisted Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "01:05.827",
+          "place": "6"
         },
         {
           "lane": "8",
