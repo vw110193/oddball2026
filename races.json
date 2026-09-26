@@ -1408,60 +1408,60 @@
       "heat": "24",
       "scheduledTime": "12:45",
       "color": "B",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Grand/B/C/D Semi 3",
       "advancementWording": "Advancements: 1st and 2nd to Race 37; 3rd and 4th to Race 36;\n                          5th and 6th to Race 35; 7th and 8th to Race 34;",
       "penaltyWording": "",
-      "updatedTime": "",
+      "updatedTime": "12:28:01",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Twist'n Trout",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:56.230",
+          "place": "8"
         },
         {
           "lane": "2",
           "teamName": "ZERO",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.563",
+          "place": "6"
         },
         {
           "lane": "3",
           "teamName": "Gig Harbor Storm",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:52.376",
+          "place": "3"
         },
         {
           "lane": "4",
           "teamName": "DH Unicorn",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:48.005",
+          "place": "1"
         },
         {
           "lane": "5",
           "teamName": "Team Lifescan",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:52.310",
+          "place": "2"
         },
         {
           "lane": "6",
           "teamName": "Otter Chaos",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.413",
+          "place": "5"
         },
         {
           "lane": "7",
           "teamName": "DH Slayers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:54.312",
+          "place": "4"
         },
         {
           "lane": "8",
           "teamName": "CrossNa Happy Trails",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "00:55.579",
+          "place": "7"
         }
       ]
     },
