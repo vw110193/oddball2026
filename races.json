@@ -2444,90 +2444,90 @@
       "heat": "40",
       "scheduledTime": "17:00",
       "color": "Black",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Division Grand Guts and Glory",
       "advancementWording": "",
-      "penaltyWording": "",
-      "updatedTime": "14:45:07",
+      "penaltyWording": "Boat 6 - 5 second penalty for runinng the start, additional 5 second penalty for missing the first turn.\nBoat 8 - 5 second penalty for not yielding when boat 9 gained right of way at the second turn.",
+      "updatedTime": "17:50:20",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Dashing Ducks",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "13:04.084",
+          "place": "13"
         },
         {
           "lane": "2",
           "teamName": "Watermelons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:01.898",
+          "place": "11"
         },
         {
           "lane": "3",
           "teamName": "Gig Harbor Storm",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:43.340",
+          "place": "9"
         },
         {
           "lane": "4",
           "teamName": "DH Slayers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:12.362",
+          "place": "12"
         },
         {
           "lane": "5",
           "teamName": "SFU Shockwave",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:54.805",
+          "place": "10"
         },
         {
           "lane": "6",
           "teamName": "Hongkongers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:22.856",
+          "place": "6"
         },
         {
           "lane": "7",
           "teamName": "Team Lifescan",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:20.157",
+          "place": "5"
         },
         {
           "lane": "8",
           "teamName": "DH Swordfish",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:40.048",
+          "place": "8"
         },
         {
           "lane": "9",
           "teamName": "CrossNA Lil Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "10:50.063",
+          "place": "4"
         },
         {
           "lane": "10",
           "teamName": "Starbucks Waverunners",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:25.208",
+          "place": "7"
         },
         {
           "lane": "11",
           "teamName": "Liyu Lakers",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "10:41.058",
+          "place": "3"
         },
         {
           "lane": "12",
           "teamName": "The GOAT Charlene Li + Others",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "10:38.815",
+          "place": "2"
         },
         {
           "lane": "13",
           "teamName": "DH Unicorn",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "10:22.476",
+          "place": "1"
         }
       ]
     }
