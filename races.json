@@ -2353,90 +2353,90 @@
       "heat": "39",
       "scheduledTime": "16:30",
       "color": "Black",
-      "status": "NotRun",
+      "status": "Publish",
       "heatDescription": "Mixed Division Minor Guts and Glory",
       "advancementWording": "",
       "penaltyWording": "",
-      "updatedTime": "14:44:50",
+      "updatedTime": "17:14:47",
       "resultsPending": false,
       "results": [
         {
           "lane": "1",
           "teamName": "Butts in a Boat",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "13:05.462",
+          "place": "13"
         },
         {
           "lane": "2",
           "teamName": "DH Motley Crew",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:41.465",
+          "place": "12"
         },
         {
           "lane": "3",
           "teamName": "Vancouver Reign",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:57.865",
+          "place": "5"
         },
         {
           "lane": "4",
           "teamName": "Orca",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:05.115",
+          "place": "7"
         },
         {
           "lane": "5",
           "teamName": "Chinatown Flower Bridge 2U2",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:23.644",
+          "place": "10"
         },
         {
           "lane": "6",
           "teamName": "One Dragon",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:54.124",
+          "place": "3"
         },
         {
           "lane": "7",
           "teamName": "Concord Pacific Flying Dragons",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:14.171",
+          "place": "8"
         },
         {
           "lane": "8",
           "teamName": "Dragon Zone Twisted Hips",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:21.455",
+          "place": "9"
         },
         {
           "lane": "9",
           "teamName": "Kitsch 'N Sync",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "12:34.878",
+          "place": "11"
         },
         {
           "lane": "10",
           "teamName": "CrossNa Happy Trails",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:57.818",
+          "place": "4"
         },
         {
           "lane": "11",
           "teamName": "ZERO",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:49.136",
+          "place": "2"
         },
         {
           "lane": "12",
           "teamName": "Otter Chaos",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:41.872",
+          "place": "1"
         },
         {
           "lane": "13",
           "teamName": "Stantec Splash",
-          "totalTime": "",
-          "place": ""
+          "totalTime": "11:58.098",
+          "place": "6"
         }
       ]
     },
